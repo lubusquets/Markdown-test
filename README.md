@@ -38,7 +38,7 @@
 
 ## Tela do erro
 
-![Erro](.Imagens/error500.jpeg)
+![Erro](https://github.com/lubusquets/Markdown-test/blob/main/Imagens/error500.jpeg?raw=true)
 
 ---
 
