@@ -56,4 +56,20 @@ ERROR 500 - Internal Server Error
 
 ---
 
+# 🔍 Análise Técnica
+
+<details>
+<summary>Clique para expandir</summary>
+
+Possível falha no carregamento do arquivo JavaScript responsável pelo checkout.
+
+Arquivo suspeito:
+
+```html
+<script src="checkout.js"></script>
+```
+
+</details>
+
+---
 
