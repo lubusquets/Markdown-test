@@ -1,6 +1,6 @@
 # Markdown-test
 
-# 🐞 BUG REPORT TÉCNICO
+# :lady_beetle:  BUG REPORT TÉCNICO
 
 ![Status](https://img.shields.io/badge/status-em%20análise-yellow)
 ![Prioridade](https://img.shields.io/badge/prioridade-alta-red)
@@ -19,13 +19,13 @@
 
 ---
 
-# 🚨 Descrição do Problema
+# :rotating_light: Descrição do Problema
 
 > O botão de finalizar compra não responde ao clique após adicionar produtos ao carrinho.
 
 ---
 
-# 🔄 Passos para Reproduzir
+# :arrows_counterclockwise: Passos para Reproduzir
 
 1. Acessar a página inicial
 2. Adicionar um produto ao carrinho
@@ -34,7 +34,7 @@
 
 ---
 
-# 📸 Evidências
+# :camera: Evidências
 
 ## Tela do erro
 
@@ -42,7 +42,7 @@
 
 ---
 
-# 💻 Logs Técnicos
+# :computer: Logs Técnicos
 
 ```javascript
 buttonCheckout.addEventListener("click", () => {
@@ -56,7 +56,7 @@ ERROR 500 - Internal Server Error
 
 ---
 
-# 🔍 Análise Técnica
+# :mag: Análise Técnica
 
 <details>
 <summary>Clique para expandir</summary>
@@ -70,6 +70,15 @@ Arquivo suspeito:
 ```
 
 </details>
+
+---
+
+# :pushpin: Impacto
+
+- [x] Usuário impedido de concluir compra
+- [x] Afeta ambiente de produção
+- [ ] Afeta banco de dados
+- [ ] Falha de segurança
 
 ---
 
