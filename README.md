@@ -34,4 +34,26 @@
 
 ---
 
+# 📸 Evidências
+
+## Tela do erro
+
+![Erro](./imagens/erro.png)
+
+---
+
+# 💻 Logs Técnicos
+
+```javascript
+buttonCheckout.addEventListener("click", () => {
+   console.log("Botão clicado");
+});
+```
+
+```bash
+ERROR 500 - Internal Server Error
+```
+
+---
+
 
