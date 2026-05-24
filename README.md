@@ -107,3 +107,17 @@ C --> D[Erro no JavaScript]
 ```
 
 ---
+
+# :warning: Prioridade
+
+| Severidade | Prioridade |
+|---|---|
+| Alta | Crítica |
+
+---
+
+# :woman_technologist: Responsáveis
+
+- Front-end
+- QA
+- Suporte Técnico
