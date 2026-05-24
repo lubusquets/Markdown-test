@@ -37,6 +37,7 @@
 # :camera: Evidências
 
 ## Tela do erro
+*Imagem gerada por IA
 
 ![Erro](https://github.com/lubusquets/Markdown-test/blob/main/Imagens/error500.jpeg?raw=true)
 
@@ -82,3 +83,14 @@ Arquivo suspeito:
 
 ---
 
+# :hammer_and_wrench: Possível Solução
+
+```javascript
+document.querySelector("#checkout")
+```
+
+Verificar:
+
+- carregamento do script
+- conflitos de DOM
+- erros no console
