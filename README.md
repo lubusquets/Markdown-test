@@ -94,3 +94,16 @@ Verificar:
 - carregamento do script
 - conflitos de DOM
 - erros no console
+
+  ---
+
+  # :bar_chart: Fluxo do Problema
+
+```mermaid
+flowchart TD
+A[Usuário adiciona produto] --> B[Clica em finalizar]
+B --> C[Botão não responde]
+C --> D[Erro no JavaScript]
+```
+
+---
