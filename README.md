@@ -121,3 +121,18 @@ C --> D[Erro no JavaScript]
 - Front-end
 - QA
 - Suporte Técnico
+
+ ---
+
+ # :paperclip: Referências
+
+- [Documentação Markdown](https://www.markdownguide.org/)
+- [GitHub Docs](https://docs.github.com/)
+
+---
+
+# :white_check_mark: Status Atual
+
+```diff
+- BUG NÃO RESOLVIDO
+```
